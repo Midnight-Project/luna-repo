@@ -1,0 +1,23 @@
+{
+    "active": true,
+    "packages": [
+        {
+            "id": "luna",
+            "name": "Luna",
+            "version": "1.0.0",
+            "description": "Luna is the official package manager for MidnightOS",
+            "url": "github.com/MidnightOS/luna",
+            "file": "luna.lpf",
+            "arch": "x86_64"
+        },
+        {
+            "id": "gamma",
+            "name": "Gamma UI",
+            "version": "1.0.0",
+            "description": "Gamma UI is a UI framework for the desktop. It is a fork of the popular UI framework Kivy.",
+            "url": "github.com/MidnightOS/GammaUI",
+            "file": "gammaui.lpf",
+            "arch": "x86_64"
+        }
+    ]
+}
